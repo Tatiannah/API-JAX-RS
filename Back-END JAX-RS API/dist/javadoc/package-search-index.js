@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"example.crud.dao"},{"l":"example.crud.model"},{"l":"example.crud.resource"},{"l":"example.crud.service"},{"l":"example.crud.util"}];updateSearchResults();
